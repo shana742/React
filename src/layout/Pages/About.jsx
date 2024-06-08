@@ -6,9 +6,9 @@ function About() {
         <div>
             <Header/>
             <h1>About Page</h1>
-            <p> Welcome to About Page...</p>
+            <p> About page here ...... </p>
 
-
+           
 
 
             <div class="accordion accordion-flush" id="accordionFlushExample">

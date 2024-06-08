@@ -6,7 +6,7 @@ function Blog(){
         <div>
             <Header/>
             <h1>Blogs</h1>
-            <p> Blog s here.....</p>
+            <p> welcome to blog page</p>
         </div>
     )
 }
